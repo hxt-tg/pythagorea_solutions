@@ -1,0 +1,2 @@
+# pythagorea_solutions
+Pythagorea几何游戏基本解法
